@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huyan1786
-- 👀 I’m interested in Back-End
-- 🌱 I’m currently learning Node.js and TypeScript
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently having experience in C/C++, Python
 - 💞️ I’m looking to collaborate on here
 - 📫 How to reach me:
 - facebook: Đinh Huy An
